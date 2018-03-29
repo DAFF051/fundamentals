@@ -10,9 +10,9 @@
 |4.|• Capturing user input <br>• Events<br>• [Basic DOM manipulations (img src, innerHTML)](fundamentals/DOM_manipulation.md)<br>• Code debugging using the browser <br>• [Code commenting](fundamentals/code_commenting.md)<br>• Structuring code files<br>• [Code formatting](fundamentals/code_formatting.md)|
 |5.|• Functions + JSON/Arrays<br>• [Array Manipulations](fundamentals/array_manipulation.md)<br>• JSON<br>• [Map and filter](fundamentals/map_filter.md)<br>• Arrow functions |
 |6.|• [Closures](fundamentals/scope_closures_this.md) <br>• Callbacks|
-|7.|• [Object Oriented Programming and Classes](fundamentals/oop_classes.md)<br>• [The `this` keyword](fundamentals/this.md) |
-|8.|• Structure for a basic SPA (Single Page Application) <br>• [XMLHttpRequests](fundamentals/XMLHttpRequest.md) <br>• API calls|
-|9.|• [Promises](fundamentals/promises.md)<br> • (re)writing data structures (in JSON) <br>• Async vs Sync <br>• [Event Loop (order of execution)](fundamentals/event_loop.md) |
+|7.|• Structure for a basic SPA (Single Page Application) <br>• [XMLHttpRequests](fundamentals/XMLHttpRequest.md) <br>• API calls|
+|8.|• [Event Loop (order of execution)](fundamentals/event_loop.md)<br>• [Promises](fundamentals/promises.md)<br> |
+|9.|• [try...catch](fundamentals/try_catch.md)<br>• [async/await](fundamentals/async_await.md)<br>• [Object Oriented Programming and Classes](fundamentals/oop_classes.md)<br>• [The `this` keyword](fundamentals/this.md) |
 
 
 
